@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaa84254-5adc-4b6c-877c-b5cfcee03e07" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/aws/aws-crt-php" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2D3SBchHSl6atfSSfQI3JfPQeEF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/apache/htdocs&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;web-ide.project.structure&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\apache\htdocs\include\fonts" />
+      <recent name="C:\apache\htdocs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\apache\htdocs\include\fileAll\fonts" />
+      <recent name="C:\apache\htdocs\include\fileAll\back" />
+      <recent name="C:\apache\htdocs\back\login" />
+      <recent name="C:\apache\htdocs\tags" />
+      <recent name="C:\apache\htdocs\upload" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="//" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaa84254-5adc-4b6c-877c-b5cfcee03e07" name="Changes" comment="" />
+      <created>1659926141208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659926141208</updated>
+      <workItem from="1659926142459" duration="25657000" />
+      <workItem from="1660085181749" duration="149000" />
+      <workItem from="1660085341314" duration="482000" />
+      <workItem from="1660085836002" duration="75190000" />
+      <workItem from="1660894267853" duration="3511000" />
+      <workItem from="1660981539017" duration="20913000" />
+      <workItem from="1661065668475" duration="10701000" />
+      <workItem from="1661126116880" duration="9947000" />
+      <workItem from="1661146876875" duration="41490000" />
+      <workItem from="1661327680585" duration="1000" />
+      <workItem from="1661391250326" duration="9517000" />
+      <workItem from="1661581043960" duration="837000" />
+      <workItem from="1661582345659" duration="4193000" />
+      <workItem from="1661845379781" duration="26000" />
+      <workItem from="1661845485919" duration="1915000" />
+      <workItem from="1661916933362" duration="26000" />
+      <workItem from="1661916979144" duration="600000" />
+      <workItem from="1666872791814" duration="5703000" />
+      <workItem from="1666921274431" duration="3325000" />
+      <workItem from="1666925517538" duration="3466000" />
+      <workItem from="1666929562347" duration="956000" />
+      <workItem from="1666938022043" duration="1753000" />
+      <workItem from="1666939938198" duration="320000" />
+      <workItem from="1667013604352" duration="3889000" />
+      <workItem from="1667090617822" duration="1096000" />
+      <workItem from="1667092105821" duration="1451000" />
+      <workItem from="1667093600408" duration="5690000" />
+      <workItem from="1667201967698" duration="1417000" />
+      <workItem from="1667288121974" duration="7000" />
+      <workItem from="1668239476578" duration="308000" />
+      <workItem from="1668239903067" duration="3183000" />
+      <workItem from="1668300832363" duration="4434000" />
+      <workItem from="1668306568735" duration="26064000" />
+      <workItem from="1668351521714" duration="5955000" />
+      <workItem from="1668387408169" duration="3650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

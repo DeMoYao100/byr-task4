@@ -1,0 +1,49 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+	asm("mov     ax, seg"
+		"mov     ds, ax"
+//		"assume ds:dseg"
+		"mov     ax, seg"
+		"mov     es, ax"
+//		"assume es:seg001"
+		"mov     si, 0"
+		"loc_100DD:            "              
+		"cmp     si, 28"
+		"jz      short loc_10134"
+		"xor     ax, ax"
+		"mov     al, [si]"
+		"shl     al, 1"
+		"shl     al, 1"
+		"shl     al, 1"
+		"shl     al, 1"
+		"push    ax"
+		"xor     ax, ax"
+		"mov     al, [si]"
+		"shr     al, 1"
+		"shr     al, 1"
+		"shr     al, 1"
+		"shr     al, 1"
+		"pop     bx"
+		"add     ax, bx"
+		"xor     ax, 23"
+		"add     si, 1"
+		"cmp     al, es:[si]"
+//		"jnz     short loc_100DD"
+//		"mov     ax, 0B800h"
+//		"mov     es, ax"
+		"assume es:nothing"
+		"loc_10132:           "                   
+//		"jmp     short loc_10132"
+		"loc_10134:            "                  
+//		"mov     ax, 0B800h"
+//		"mov     es, ax"
+//		"loc_1015D:              "                
+//		"jmp     short loc_1015D"
+		"endpends"
+		"end start");
+	
+	
+	
+	return 0;
+}

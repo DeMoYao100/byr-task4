@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="../cssBook/login.css">
+    <title class="pos1">File Upload</title>
+</head>
+
+
+<div id="login-box">
+    <link type="text/css" rel="stylesheet" href="../cssBook/login.css">
+    <form action="../back/login/Registered.php" method="post">
+        <h1>Registered</h1>
+        <div class="form">
+            <div>
+                <i class="item">Please input your username.</i>
+                <div class="item">
+                    <input type="text" name="username" placeholder="Username" style="BACKGROUND-COLOR: transparent;"/>
+                </div>
+            </div>
+
+            <div>
+                <div>
+                    <i class="item">Please input your password.</i>
+                </div>
+                <div class="item">
+                    <input type="password" name="password" placeholder="password" style="BACKGROUND-COLOR: transparent;"/>
+                </div>
+            </div>
+
+            <div>
+                <i class="item">Please input your password again.</i>
+            </div>
+            <div class="item">
+                <input type="password" name="passwordAgain" placeholder="password" style="BACKGROUND-COLOR: transparent;"/>
+            </div>
+
+            <div>
+                <i class="item">Verify Code</i>
+                <div class="item"><input type="text" name="verifyCode" placeholder="verifyCode" style="BACKGROUND-COLOR: transparent"/></div>
+                <div>
+                    <img src="../back/login/getVerify.php" class="item">
+                </div>
+
+            </div>
+                <button>register</button>
+        </div>
+    </form>
+</div>
+<div class="hr_25"></div>
+<div class="footer"></div>
+
+
+</html>
